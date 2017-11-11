@@ -1,6 +1,6 @@
 
 
-let distance, city, Tip;
+
 function scuberGreetingForFeet(feet) {
   If (feet===400 || feet<400){
     return "This one is on me!"
