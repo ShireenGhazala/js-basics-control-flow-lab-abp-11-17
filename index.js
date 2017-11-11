@@ -14,7 +14,7 @@ function scuberGreetingForFeet(feet) {
 }
 
 function ternaryCheckCity(city) {
- return city==="NYC"? "Ok, sounds good.": "No Go.";
+ return (city==="NYC"?) "Ok, sounds good.": "No Go.";
 }
 
 function switchOnCharmFromTip(Tip) {
